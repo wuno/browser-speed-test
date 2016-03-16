@@ -1,0 +1,1 @@
+This is a chrome extension that uses gtmetrix.com to monitor the speed of a webpage. Once the extension is installed you can click the wuno icon in your browser then "Start Analyzing!" At this point the test will run and show you all the results that gtmetrix has to offer. 
